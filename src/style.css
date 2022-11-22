@@ -1,1 +1,8 @@
 /* styles go here */
+.input-margin {
+  margin-bottom: 10px;
+}
+
+.fieldset-bottom {
+  margin-bottom: 20px;
+}
